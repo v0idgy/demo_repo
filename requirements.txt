@@ -1,0 +1,57 @@
+numpy 
+pandas
+matplotlib
+scikit-learn
+seaborn
+scipy
+xgboost
+lightgbm
+catboost
+# Optional dependencies for specific functionalities
+tensorflow
+torch  
+# Optional dependencies for advanced plotting
+plotly
+# Optional dependencies for data manipulation
+dask
+# Optional dependencies for data validation
+great_expectations
+# Optional dependencies for model interpretability
+shap
+lime
+# Optional dependencies for model deployment
+mlflow
+# Optional dependencies for hyperparameter tuning
+optuna
+# Optional dependencies for data versioning
+dvc
+# Optional dependencies for data augmentation
+albumentations
+# Optional dependencies for time series analysis
+tsfresh
+# Optional dependencies for NLP tasks
+nltk
+# Optional dependencies for image processing
+opencv-python
+# Optional dependencies for audio processing
+librosa
+# Optional dependencies for graph data processing
+networkx
+# Optional dependencies for Bayesian methods
+pymc3
+# Optional dependencies for reinforcement learning
+ray[rllib]
+# Optional dependencies for distributed computing
+dask[complete]
+# Optional dependencies for parallel processing
+joblib
+# Optional dependencies for data exploration
+pandas-profiling
+# Optional dependencies for feature engineering
+feature-engine
+# Optional dependencies for model evaluation
+yellowbrick
+# Optional dependencies for data visualization
+bokeh
+# Optional dependencies for statistical analysis
+statsmodels
