@@ -1,6 +1,6 @@
-typeguard-4.4.4
-anyio-4.9.0
-hydra-core-1.3.2
+typeguard
+anyio
+hydra-core
 numpy 
 pandas
 matplotlib
